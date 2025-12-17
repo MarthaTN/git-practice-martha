@@ -11,3 +11,6 @@ This repository is my personal practice space for learning Git and GitHub.
 
 ## My goal
 To become confident using Git as a developer and contributor.
+
+## Branch practice
+I am practicing creating and working with branches.
